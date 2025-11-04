@@ -12,7 +12,7 @@ st.markdown("<h4 style = 'margin: -30px; color: #FFC470; text-align: center; fon
 st.markdown("<br>", unsafe_allow_html=True)
 
 #get an image
-st.image('pngwing.com (5).png', caption = 'Built by Era King')    
+st.image('pngwing.com (5).png', caption = 'Built by Jimoh Abdulquyum')    
 
 #Add Project problem statement
 st.markdown("<h2 style = 'color: #F7C566; text-align: center; font-family: montserrat '>Background Of Study</h2>", unsafe_allow_html = True)
