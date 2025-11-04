@@ -8,7 +8,7 @@ data = pd.read_csv('automobile.csv')
 
 
 st.markdown("<h1 style = 'color: #DD5746; text-align: center; font-size: 60px; font-family: Monospace'>AUTOMOBILE PRICE PREDICTOR</h1>", unsafe_allow_html = True)
-st.markdown("<h4 style = 'margin: -30px; color: #FFC470; text-align: center; font-family: Serif '>Built by Era King</h4>", unsafe_allow_html = True)
+st.markdown("<h4 style = 'margin: -30px; color: #FFC470; text-align: center; font-family: Serif '>Built by Jimoh Abdulquyum</h4>", unsafe_allow_html = True)
 st.markdown("<br>", unsafe_allow_html=True)
 
 #get an image
